@@ -1,0 +1,11 @@
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\bin\Debug\Kriechrennen.exe.config
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\bin\Debug\Kriechrennen.exe
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\bin\Debug\Kriechrennen.pdb
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.csproj.AssemblyReference.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.csproj.SuggestedBindingRedirects.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.Form1.resources
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.Properties.Resources.resources
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.csproj.GenerateResource.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.csproj.CoreCompileInputs.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.exe
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Kriechrennen\Kriechrennen\obj\Debug\Kriechrennen.pdb
