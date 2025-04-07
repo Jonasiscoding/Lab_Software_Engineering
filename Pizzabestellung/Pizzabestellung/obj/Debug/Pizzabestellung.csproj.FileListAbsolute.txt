@@ -1,0 +1,11 @@
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.AssemblyReference.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.SuggestedBindingRedirects.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.Form1.resources
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.Properties.Resources.resources
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.GenerateResource.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.CoreCompileInputs.cache
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.exe.config
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.exe
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.pdb
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.exe
+D:\Daten\Jonas\Studium_Elektrotechnik\Software_Engineering\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.pdb
